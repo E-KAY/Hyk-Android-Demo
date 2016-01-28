@@ -9,4 +9,6 @@ Hyk Android Demo
 以下是这里所收集的Demo库的原地址：</br>
 The following is the source address of all collected here Demo Library:
 
+* AndroidVideoPlayer - https://github.com/xiongwei-git/AndroidVideoPlayer.git
+
 
